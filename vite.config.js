@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/rent_cars_app/',
+  base: '/rent_cars_app',
 });
